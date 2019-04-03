@@ -1,1 +1,3 @@
 Welcome to Freetuts
+
+Test delete khoi stage
